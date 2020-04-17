@@ -1,13 +1,16 @@
-# Emoji Research
+# research and explaining my idea
 
-![Research](research.jpeg)
+![example1.png]
+![example2.png]
+![example3.png]
 
-- Date: March 3, 2020
-- Description: Going through materials at the International Emoji Archives
 
-![Research](research-desktop.png)
+- Date: April 11, 2020
+- Description: Looking at moji vision's website, getting inspirations from the AR lenses visuals and coming up w ideas
 
-- Date: April 5, 2020
-- Description: Screen shot of my research the online Internet Archive and textfiles archive.
+![research draft.jpg]
 
-The first image is taken from my trip to the Internet Archive, it depicts Brewster Kahle, the founder and director of the archive, explaining to the tour group how often the servers (shown on the right) are requested from on a daily basis. My visit to the archive allowed me to interview Internet historians like Jason Scott to get their first hand accounts of how emoticons, the focus of my research, where used in the earliest days of the Internet. The second image is a screen shot of my online research. On the left is Jason Scott's online text-files archive, which includes a large collection of early ASCII art (images created from text characters) which directly inspired my notion to create portraits from emojis. On the right is one of the many research papers i read on how emoji's are used in various online platforms as a means of self expression. 
+- Date: April 16, 2020
+- Description: Making the first verision of the visual on photoshop
+
+when you use those AR lenses, it gives you real time information on what you're looking at and i think in a few years as the technology evolves, these AR lenses will be able to have facial recognitions. with the pandemic going on in the world, i want to mimic the way that the chinese government collects basic information from everybody entering the country also mixed with some questions as i had to fill out multiple forms when i returned home from the states. and also questions on how has the virus made an impact on people's life, etc. the words and questions will be replaced with the interviewers info and answers. i used the same color, similar fonts and the green outline around my interviewer as the ones in the examples from mojo's official website as a referance to the company. 
